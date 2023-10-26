@@ -1,3 +1,3 @@
 # Cormorant's Catch
 
-<iframe frameborder="0" src="https://itch.io/embed/2331397" width="552" height="167"><a href="https://saskiavhof.itch.io/cormorantscatch">Cormorant's Catch by saskia :)</a></iframe>
+<img width="551" alt="Screen Shot 2023-10-26 at 6 37 25 PM" src="https://github.com/saskiavhof/Cormorant-s-Catch/assets/121727706/4c4aa840-1dcc-469e-85df-631053f5207b">
